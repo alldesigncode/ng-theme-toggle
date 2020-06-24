@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-night-mode"
+    }
+  },
+  "defaultProject": "ng-night-mode",
+  "cli": {
+    "analytics": false
+  }
 }
